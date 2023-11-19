@@ -1,4 +1,4 @@
-### Bienvenue sur mon profile ![image](https://github.com/mrkey2b/mrkey2b/assets/image.gif)
+### Bienvenue sur mon profile ![image](https://github.com/mrkey2b/mrkey2b/blob/main/assets/image.gif?raw=true)
 
 <!--
 **mrkey2b/mrkey2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
